@@ -6,3 +6,13 @@
 <a name="proj-stat"></a>
 ## 1. Problem statement
 The objective of this project is to train a deep learning model to recommend books to users using User-User based collaborative filtering
+
+## 2. Project Structure
+The project data and codes are arranged in the following manner:
+
+```
+├── README.md               <- description of the project and how to set up and run it
+├── requirements.txt        <- requirements file to document dependencies
+├── main_bookrecs.ipynb     <- contains the main notebook modeled using User-User collaborative filtering based approach
+├── .gitignore              <- git ignore file
+```
