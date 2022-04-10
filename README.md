@@ -36,5 +36,6 @@ View code and sample results [here](main_BooksRec.ipynb)
 <p align="center"><img align="center" width="800px" src="search.png"></p>
 
 - Recommend 10 books based on liked books:
+
 **INPUT - Steve jobs, Atomic habits, elon musk, Harry potter, AI and future
 <p align="center"><img align="center" width="800px" src="Recs.png"></p>
