@@ -26,3 +26,7 @@ https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
 ```
 
 <a name="exp"></a>
+
+_Code & Results_: <br>
+the `data` folder is not a part of this git project as it was heavy. The same can be downloaded from below link:
+1) View code and sample results [here](main_booksrec.ipynb) 
