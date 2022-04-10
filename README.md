@@ -27,5 +27,5 @@ https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
 
 <a name="exp"></a>
 
-_Code & Results_: <br>
-2) View code and sample results [here](main_BooksRec.ipynb) 
+2) _Code & Results_: <br>
+View code and sample results [here](main_BooksRec.ipynb) 
