@@ -34,4 +34,4 @@ View code and sample results [here](main_BooksRec.ipynb)
 ## 3. Search Functionality 
 - Search Books related to sherlock holmes:
 - Recommend 10 books based on liked books:
-<p align="center"><img align="center" width="800px" src="method.png"></p>
+<p align="center"><img align="center" width="800px" src="Recs.png"></p>
