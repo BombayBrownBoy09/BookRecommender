@@ -31,8 +31,9 @@ https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
 View code and sample results [here](main_BooksRec.ipynb) 
 
 
-## 3. Search Functionality 
+## 3. Search & Recommend Functionality 
 - Search Books related to sherlock holmes:
 <p align="center"><img align="center" width="800px" src="search.png"></p>
+
 - Recommend 10 books based on liked books:
 <p align="center"><img align="center" width="800px" src="Recs.png"></p>
