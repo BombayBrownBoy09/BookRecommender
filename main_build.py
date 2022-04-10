@@ -70,6 +70,7 @@ def search(query,vectorizer):
     
     return results.head(5).style.format({'url': make_clickable, 'cover_image': show_image})
 
+print("Enter book ids of your liked books:")
 liked_books = input()
 if type(liked_books)==list:
   continue
@@ -147,3 +148,11 @@ def make_clickable(val):
 
 def show_image(val):
     return '<a href="{}"><img src="{}" width=50></img></a>'.format(val, val)
+
+
+# time to test our results
+search_result = search("business", vectorizer)
+print(search_result)
+
+recs = popular_recs[~popular_recs["book_id"].isin(liked_books)].head(10).style.format({'url': make_clickable, 'cover_image': show_image})
+print(recs)
