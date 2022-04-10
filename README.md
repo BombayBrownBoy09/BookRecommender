@@ -28,4 +28,4 @@ https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
 <a name="exp"></a>
 
 _Code & Results_: <br>
-2) View code and sample results [here](main_booksrec.ipynb) 
+2) View code and sample results [here](main_BooksRec.ipynb) 
