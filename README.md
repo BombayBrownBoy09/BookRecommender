@@ -1,7 +1,7 @@
 # Book-reccomender
 
 **Project by Abhilash Sarnad, Christine Park and Bhargav Shetgaonkar for Duke AIPI 540 Module 3**
-<p align="center"><img align="center" width="800px" src="https://github.com/SarnadAbhilash/RecIt.git/blob/Images/method.png"></p>
+<p align="center"><img align="center" width="800px" src="https://github.com/SarnadAbhilash/RecIt/tree/main/Images/method.png"></p>
 
 <a name="proj-stat"></a>
 ## 1. Problem statement
@@ -40,13 +40,13 @@ View code and sample results [here](/Users/abhilashsarnad/myWork/Portfolio/Recit
 
 ## 3. Search & Recommend Functionality 
 - Search Books related to sherlock holmes:
-<p align="center"><img align="center" width="800px" src="https://github.com/SarnadAbhilash/RecIt.git/blob/Images/search.png"></p>
+<p align="center"><img align="center" width="800px" src="https://github.com/SarnadAbhilash/RecIt/tree/main/Images/search.png"></p>
 
 - Recommend 10 books based on liked books:
 
 **INPUT - Steve jobs, Atomic habits, elon musk, Harry potter, AI and future**
 
-<p align="center"><img align="center" width="800px" src="https://github.com/SarnadAbhilash/RecIt.git/blob/Images/Recs.png"></p>
+<p align="center"><img align="center" width="800px" src="https://github.com/SarnadAbhilash/RecIt/tree/main/Images/Recs.png"></p>
 
 ## 4. How to Run the Code
 Use the command line to run the main.py file in the scripts folder to train the model with specified parameters.
