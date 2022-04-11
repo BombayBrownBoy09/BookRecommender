@@ -1,7 +1,7 @@
 # Book-reccomender
 
 **Project by Abhilash Sarnad, Christine Park and Bhargav Shetgaonkar for Duke AIPI 540 Module 3**
-<p align="center"><img align="center" width="800px" src="https://github.com/SarnadAbhilash/RecIt/tree/main/Images/method.png"></p>
+<p align="center"><img align="center" width="800px" src="Images/method.png"></p>
 
 <a name="proj-stat"></a>
 ## 1. Problem statement
