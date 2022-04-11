@@ -5,7 +5,7 @@
 
 <a name="proj-stat"></a>
 ## 1. Problem statement
-The objective of this project is to train a deep learning model to recommend books to users using User-User based collaborative filtering
+The objective of this project is to recommend books to users by finding similar users using techniques like collaborative filtering
 
 ## 2. Project Structure
 The project data and codes are arranged in the following manner:
