@@ -1,5 +1,5 @@
 Pandas
-scikit-learn
+TfidfVectorizer
 cosine_similarity
 numpy
 regex
