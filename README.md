@@ -42,7 +42,7 @@ View code and sample results [here](/Users/abhilashsarnad/myWork/Portfolio/Recit
 - Search Books related to sherlock holmes:
 <p align="center"><img align="center" width="800px" src="Images/search.png"></p>
 
-- Recommend 10 books based on liked books:
+- Recommend 10 books based on input liked books:
 
 **INPUT - Steve jobs, Atomic habits, elon musk, Harry potter, AI and future**
 
